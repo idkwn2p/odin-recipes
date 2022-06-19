@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 ## Project: Recipes from The Odin Project
 
 Odin Recipes is a simple website with recipes.  
